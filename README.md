@@ -1,4 +1,9 @@
 
+## Demo
+![EER](demo.gif)
+
+
+
 Text Editor using java swing.Some design
 patterns were used like command, flyweight and
 builder.
